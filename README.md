@@ -66,7 +66,7 @@
 
 Agency AI provides an AI‑powered platform that automates Meta and Google advertising for Shopify merchants. Built by operators who have scaled Shopify stores into the top 0.1% of merchants, the service offers a creative studio, campaign automation, and real‑time optimization, aiming to keep margins high while removing the need for a retainer. It integrates Claude and ChatGPT for ad copy generation and supports a free trial with no credit‑card required.
 
-**Areas:** AI · Advertising · Shopify · Automation · Marketing
+**Areas:** Artificial Intelligence · Advertising · Shopify · Automation · Marketing
 
 ## Agency AI on APIs.io
 
@@ -80,13 +80,13 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agencyai App Domain Security](https://apis.io/security/agencyai-app/agencyai-app-domain-security/)
+- [Agency AI Domain Security](https://apis.io/security/agencyai-app/agencyai-app-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Agencyai App Plans Pricing](https://apis.io/plans/agencyai-app/agencyai-app-plans-pricing/)
+- [Agency AI Plans Pricing](https://apis.io/plans/agencyai-app/agencyai-app-plans-pricing/)
 
 ## Where to find this API
 
@@ -103,18 +103,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 19.3** — emerging · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 20.4** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 48.2 |
+| Discoverability | 55.4 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 10.5 |
+| Operational transparency | 9.5 |
 | Developer ergonomics | 16.7 |
-| Access clarity | 50.5 |
+| Access clarity | 53.2 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 3.0** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -139,6 +139,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
 
